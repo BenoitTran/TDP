@@ -1,5 +1,4 @@
-# TDP
-Tropical Dynamic Programming
+# Tropical Dynamic Programming (TDP)
 
 Two julia 1.4. notebooks to illustrate TDP in a linear-polyhedral framework.
 
