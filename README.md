@@ -1,13 +1,14 @@
 # Tropical Dynamic Programming (TDP)
 
-Two Julia 1.4. Notebooks to illustrate TDP in a linear-polyhedral framework.
+Two Julia 1.4. Notebooks to illustrate TDP in a linear-polyhedral example of Multistage Stochastic optimization Problem.
 
-See inside each notebook for a short introduction. 
+One Julia 1.7.3 Notebook to illustrade TDP in a linear-quadratic example of Multistage (Deterministic) optimization Problem.
+
+See inside each notebook for details.
 
 ## Packages
 
-JuMP https://github.com/jump-dev/JuMP.jl, for modeling optimization problems,
+Uses
+JuMP https://github.com/jump-dev/JuMP.jl, for modeling optimization problems
+and see inside each notebook for details.
 
-MathOptInterface https://github.com/jump-dev/MathOptInterface.jl for more precise modeling manuplations,
-
-Gurobi https://github.com/jump-dev/Gurobi.jl, interface for Gurobi's solver, using a free academic license, for solving LP.
